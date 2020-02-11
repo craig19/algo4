@@ -1,0 +1,38 @@
+﻿  Lab3c.cpp
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(15,38): warning C4812: obsolete declaration style: please use 'TreeNode<T>::TreeNode' instead
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(37,32): warning C4812: obsolete declaration style: please use 'BinaryTree<T>::BinaryTree' instead
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(37,32): warning C4812: obsolete declaration style: please use 'BinaryTree<char>::BinaryTree' instead
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(37): message : while compiling class template member function 'BinaryTree<char>::BinaryTree(void)'
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(100): message : see reference to function template instantiation 'BinaryTree<char>::BinaryTree(void)' being compiled
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(100): message : see reference to class template instantiation 'BinaryTree<char>' being compiled
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(15,38): warning C4812: obsolete declaration style: please use 'TreeNode<T>::TreeNode' instead
+          with
+          [
+              T=char
+          ]
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(15): message : while compiling class template member function 'TreeNode<T>::TreeNode(T)'
+          with
+          [
+              T=char
+          ]
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(50): message : see reference to function template instantiation 'TreeNode<T>::TreeNode(T)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(50): message : see reference to class template instantiation 'TreeNode<T>' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(43): message : while compiling class template member function 'void BinaryTree<char>::add(T)'
+          with
+          [
+              T=char
+          ]
+C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Lab3c\Lab3c.cpp(103): message : see reference to function template instantiation 'void BinaryTree<char>::add(T)' being compiled
+          with
+          [
+              T=char
+          ]
+  Lab3c.vcxproj -> C:\Users\jayjo\OneDrive\Desktop\Algo4\Lab3c\Debug\Lab3c.exe
