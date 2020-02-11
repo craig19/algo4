@@ -1,2 +1,2 @@
-# Data Structurs & Algorithms 4th Year
+# Data Structures & Algorithms 4th Year
 ## practical labs 
