@@ -1,3 +1,5 @@
-﻿  Lab1b.cpp
-C:\Users\jayjo\source\repos\Lab1b\Lab1b\Lab1b.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
-  Lab1b.vcxproj -> C:\Users\jayjo\source\repos\Lab1b\Debug\Lab1b.exe
+﻿  Customer.cpp
+  Lab1b.cpp
+C:\Users\jayjo\algo4\Lab1b\Lab1b\Lab1b.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab1b.vcxproj -> C:\Users\jayjo\algo4\Lab1b\Debug\Lab1b.exe

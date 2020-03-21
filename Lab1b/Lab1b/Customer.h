@@ -9,7 +9,8 @@ class Customer : public Person
 public:
 	Customer(string); // initialise the name
 	void printname();
-	private:
+
+private:
 	string complaint = "i would like to make a complaint";
 };
 

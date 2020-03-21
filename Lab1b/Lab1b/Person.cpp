@@ -2,9 +2,8 @@
 using namespace std;
 
 
-Person::Person(string n)
+Person::Person(string n) : name(n)
 {
-	name = n;
 }
 
 void Person::printname()

@@ -1,9 +1,10 @@
 ﻿  Book.cpp
   Lab1.cpp
-C:\Users\jayjo\OneDrive\Desktop\Lab1\Lab1\Lab1.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\jayjo\OneDrive\Desktop\Lab1\Lab1\Lab1.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\jayjo\OneDrive\Desktop\Lab1\Lab1\Lab1.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jayjo\algo4\Lab1\Lab1\Lab1.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jayjo\algo4\Lab1\Lab1\Lab1.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jayjo\algo4\Lab1\Lab1\Lab1.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
   Product.cpp
   Software.cpp
   Generating Code...
-  Lab1.vcxproj -> C:\Users\jayjo\OneDrive\Desktop\Lab1\Debug\Lab1.exe
+  LINK : C:\Users\jayjo\algo4\Lab1\Debug\Lab1.exe not found or not built by the last incremental link; performing full link
+  Lab1.vcxproj -> C:\Users\jayjo\algo4\Lab1\Debug\Lab1.exe
